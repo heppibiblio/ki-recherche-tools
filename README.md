@@ -1,8 +1,8 @@
 # ki-recherche-tools
 Kleine kollaborative Übersicht zu KI-gestützten Recherche-Tools für wissenschaftliche Bibliotheken.
 ## Inhalte
-- Tool-Steckbriefe
-- strukturierte Daten in JSON
+- strukturierte Überischt-Daten in JSON
+- strukturierte Detail-Daten in JSON
 - kollaborative Pflege über GitHub
 
 ## Aktueller Stand
