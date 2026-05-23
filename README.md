@@ -34,9 +34,8 @@ Kleine kollaborative Übersicht zu KI-gestützten Recherche-Tools für wissensch
 - wiso KI
 
 ## Struktur
-- `data/tools.json` = zentrale Datendatei
-- `tools/` = einzelne Markdown-Steckbriefe
-- `docs/schema.md` = Metadatenschema
+docs/schema.md → erklärt die Felder
+tools/*.json → ein Tool pro Datei
 
 ## Mitwirken
 Siehe `CONTRIBUTING.md`
