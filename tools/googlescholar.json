@@ -3,7 +3,7 @@
     "cost_type": "Anmeldung notwendig",
     "data_basis": "Google Scholar",
     "libkey": false,
-    "url": "",
+    "url": "https://scholar.google.com/",
     "category": "KI-Rechercheassistent",
     "short_description": "Experimentelle/erweiterte Suchfunktion im Umfeld von Google Scholar.",
     "notes": "",
