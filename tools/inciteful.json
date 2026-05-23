@@ -1,1 +1,11 @@
-
+{
+    "name": "Inciteful",
+    "cost_type": "kostenlos",
+    "data_basis": "OpenAlex/Semantic Scholar",
+    "libkey": false,
+    "url": "https://inciteful.xyz/",
+    "category": "Literatur-Discovery / Visualisierung",
+    "short_description": "Hilft beim Entdecken verwandter Literatur und beim Aufbau von Zitier- und Themennetzwerken.",
+    "notes": "",
+    "last_checked": "2026-05-23"
+  }
