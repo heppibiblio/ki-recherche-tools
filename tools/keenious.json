@@ -1,1 +1,11 @@
-
+{
+    "name": "keenious",
+    "cost_type": "teilweise kostenlos",
+    "data_basis": "OpenAlex",
+    "libkey": true,
+    "url": "https://keenious.com/",
+    "category": "KI-Rechercheassistent",
+    "short_description": "Semantische Rechercheoberfläche zur Exploration wissenschaftlicher Literatur.",
+    "notes": "",
+    "last_checked": "2026-05-23"
+  }
