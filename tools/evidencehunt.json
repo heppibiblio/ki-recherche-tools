@@ -1,1 +1,11 @@
-
+{
+    "name": "EvidenceHunt",
+    "cost_type": "teilweise kostenlos",
+    "data_basis": "PubMed",
+    "libkey": false,
+    "url": "",
+    "category": "KI-Rechercheassistent",
+    "short_description": "Tool zur evidenzbasierten Recherche in biomedizinischen Publikationen.",
+    "notes": "",
+    "last_checked": "2026-05-23"
+  }
