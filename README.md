@@ -34,8 +34,8 @@ Kleine kollaborative Übersicht zu KI-gestützten Recherche-Tools für wissensch
 - wiso KI
 
 ## Struktur
-docs/schema.md → erklärt die Felder
-tools/*.json → ein Tool pro Datei
+`docs/schema.md` → erklärt die Felder
+`tools/*.json` → ein Tool pro Datei
 
 ## Mitwirken
 Siehe `CONTRIBUTING.md`
