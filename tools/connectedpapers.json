@@ -1,0 +1,11 @@
+{
+    "name": "Connected Papers",
+    "cost_type": "teilweise kostenlos",
+    "data_basis": "Semantic Scholar",
+    "libkey": false,
+    "url": "https://www.connectedpapers.com/",
+    "category": "Literatur-Discovery / Visualisierung",
+    "short_description": "Visualisiert inhaltlich verwandte wissenschaftliche Arbeiten in einer Graphansicht.",
+    "notes": "",
+    "last_checked": "2026-05-23"
+  }
