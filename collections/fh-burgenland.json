@@ -1,1 +1,9 @@
-
+{
+  "library": "FH Burgenland",
+  "tools": [
+    "connected-papers",
+    "consensus",
+    "elicit",
+    "scispace"
+  ]
+}
