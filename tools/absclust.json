@@ -1,0 +1,11 @@
+{
+    "name": "AbsClust",
+    "cost_type": "teilweise kostenlos",
+    "data_basis": "Semantic Scholar",
+    "libkey": false,
+    "url": "",
+    "category": "Literatur-Discovery / Clustering",
+    "short_description": "Tool zur thematischen Clusterung und Exploration wissenschaftlicher Literatur.",
+    "notes": "",
+    "last_checked": "2026-05-23"
+  }
