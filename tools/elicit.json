@@ -1,1 +1,11 @@
-
+{
+    "name": "Elicit",
+    "cost_type": "teilweise kostenlos",
+    "data_basis": "Semantic Scholar",
+    "libkey": false,
+    "url": "https://elicit.com/",
+    "category": "KI-Rechercheassistent",
+    "short_description": "Unterstützt bei Literaturrecherche, Screening und Extraktion von Informationen aus wissenschaftlichen Artikeln.",
+    "notes": "",
+    "last_checked": "2026-05-23"
+  }
