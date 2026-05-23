@@ -1,1 +1,11 @@
-
+{
+    "name": "Google Scholar Labs",
+    "cost_type": "Anmeldung notwendig",
+    "data_basis": "Google Scholar",
+    "libkey": false,
+    "url": "",
+    "category": "KI-Rechercheassistent",
+    "short_description": "Experimentelle/erweiterte Suchfunktion im Umfeld von Google Scholar.",
+    "notes": "",
+    "last_checked": "2026-05-23"
+  }
