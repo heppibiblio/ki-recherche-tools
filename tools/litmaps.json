@@ -1,1 +1,12 @@
-
+  {
+    "name": "Litmaps",
+    "cost_type": "teilweise kostenlos",
+    "data_basis": "k.A.",
+    "data_basis_url": "k.A.",
+    "libkey": true,
+    "url": "https://www.litmaps.com/",
+    "category": "Literatur-Discovery / Visualisierung",
+    "short_description": "Erstellt Literaturkarten und Zitationsnetzwerke zur Rechercheunterstützung.",
+    "notes": "",
+    "last_checked": "2026-05-24"
+  }
