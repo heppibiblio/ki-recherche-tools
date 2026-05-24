@@ -1,4 +1,5 @@
 {
+    "id": "scopus-ai",
     "name": "ScopusAI",
     "cost_type": "Campuslizenz",
     "data_basis": "Scopus",
