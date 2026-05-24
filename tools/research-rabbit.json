@@ -2,7 +2,7 @@
     "id": "research-rabbit",
     "name": "ResearchRabbit",
     "cost_type": "kostenlos",
-    "data_basis": "Semantic Scholar / OpenAlex",
+    "data_basis": "OpenAlex/Semantic Scholar",
     "data_basis_url": "",
     "libkey": false,
     "url": "https://www.researchrabbit.ai/",
