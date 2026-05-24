@@ -1,30 +1,130 @@
 {
   "library": "HAW Burgenland",
   "tools": [
-    "absclust",
-    "connected-papers",
-    "consensus",
-    "elicit",
-    "evidence-hunt",
-    "google-scholar",
-    "inciteful",
-    "keenious",
-    "lateral",
-    "litmaps",
-    "local-citation-network",
-    "open-knowledge-maps",
-    "orkg-ask",
-    "r-discovery",
-    "research-rabbit",
-    "science-os",
-    "scinapse",
-    "scispace",
-    "scite",
-    "scopus-ai",
-    "semantic-scholar",
-    "statista-research-ai",
-    "summon-research-assistant",
-    "undermind",
-    "wiso-ki"
+    {
+      "id": "absclust",
+      "local_url": "https://fh-burgenland.libanswers.com/faq/288344",
+      "available": true
+    },
+    {
+      "id": "connected-papers",
+      "local_url": "https://fh-burgenland.libanswers.com/faq/288345",
+      "available": true
+    },
+    {
+      "id": "consensus",
+      "local_url": "https://fh-burgenland.libanswers.com/faq/288289",
+      "available": true
+    },
+    {
+      "id": "elicit",
+      "local_url": "",
+      "available": true
+    },
+    {
+      "id": "evidence-hunt",
+      "local_url": "",
+      "available": true
+    },
+    {
+      "id": "google-scholar",
+      "local_url": "",
+      "available": true
+    },
+    {
+      "id": "inciteful",
+      "local_url": "",
+      "available": true
+    },
+    {
+      "id": "keenious",
+      "local_url": "",
+      "available": true
+    },
+    {
+      "id": "lateral",
+      "local_url": "",
+      "available": true
+    },
+    {
+      "id": "litmaps",
+      "local_url": "",
+      "available": true
+    },
+    {
+      "id": "local-citation-network",
+      "local_url": "",
+      "available": true
+    },
+    {
+      "id": "open-knowledge-maps",
+      "local_url": "",
+      "available": true
+    },
+    {
+      "id": "orkg-ask",
+      "local_url": "",
+      "available": true
+    },
+    {
+      "id": "r-discovery",
+      "local_url": "",
+      "available": true
+    },
+    {
+      "id": "research-rabbit",
+      "local_url": "",
+      "available": true
+    },
+    {
+      "id": "science-os",
+      "local_url": "",
+      "available": true
+    },
+    {
+      "id": "scinapse",
+      "local_url": "",
+      "available": true
+    },
+    {
+      "id": "scispace",
+      "local_url": "",
+      "available": true
+    },
+    {
+      "id": "scite",
+      "local_url": "",
+      "available": true
+    },
+    {
+      "id": "scopus-ai",
+      "local_url": "",
+      "available": true
+    },
+    {
+      "id": "semantic-scholar",
+      "local_url": "",
+      "available": true
+    },
+    {
+      "id": "statista-research-ai",
+      "local_url": "",
+      "available": true
+    },
+    {
+      "id": "summon-research-assistant",
+      "local_url": "",
+      "available": true
+    },
+    {
+      "id": "undermind",
+      "local_url": "",
+      "available": true
+    },
+    {
+      "id": "wiso-ki",
+      "local_url": "",
+      "available": true
+    }
   ]
 }
