@@ -42,11 +42,6 @@
       "available": true
     },
     {
-      "id": "lateral",
-      "local_url": "",
-      "available": false
-    },
-    {
       "id": "litmaps",
       "local_url": "",
       "available": true
