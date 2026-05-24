@@ -1,0 +1,12 @@
+{
+    "name": "Local Citation Network",
+    "cost_type": "kostenlos",
+    "data_basis": "OpenAlex",
+    "data_basis_uel": "http://openalex.org/",
+    "libkey": false,
+    "url": "https://www.localcitationnetwork.com/",
+    "category": "Literatur-Discovery / Visualisierung",
+    "short_description": "Erzeugt lokale Zitationsnetzwerke auf Basis von Literaturdaten.",
+    "notes": "",
+    "last_checked": "2026-05-24"
+  }
