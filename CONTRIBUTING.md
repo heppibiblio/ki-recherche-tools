@@ -47,7 +47,7 @@ Wenn der Vorschlag passt, wird er in das Repository aufgenommen.
 
 Bei Interesse an einer Mitarbeit oder bei Fragen bitte wenden an:
 
-
+**GitHub-Profil:** [heppibiblio](https://github.com/heppibiblio)
 
 ## Vielen Dank!
 
