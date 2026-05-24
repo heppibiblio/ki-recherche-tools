@@ -1,4 +1,5 @@
 {
+    "id": "r-discovery",
     "name": "R Discovery",
     "cost_type": "teilweise kostenlos",
     "data_basis": "PubMed/OpenAlex",
