@@ -9,6 +9,7 @@
 - last_checked
 
 ## Optionale Felder
+- data_basis_url
 - category
 - short_description
 - notes
