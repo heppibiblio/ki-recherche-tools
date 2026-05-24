@@ -3,9 +3,9 @@
     "cost_type": "teilweise kostenlos",
     "data_basis": "PubMed",
     "libkey": false,
-    "url": "",
+    "url": "https://evidencehunt.com/",
     "category": "KI-Rechercheassistent",
     "short_description": "Tool zur evidenzbasierten Recherche in biomedizinischen Publikationen.",
     "notes": "",
-    "last_checked": "2026-05-23"
+    "last_checked": "2026-05-24"
   }
