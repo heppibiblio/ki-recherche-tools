@@ -11,6 +11,7 @@ Kleine kollaborative Übersicht zu KI-gestützten Recherche-Tools für wissensch
 ## Aktueller Stand: Tools
 
 - AbsClust
+- AnswerThis
 - Connected Papers
 - Consensus
 - Elicit
