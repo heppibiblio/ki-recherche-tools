@@ -1,0 +1,12 @@
+{
+    "name": "R Discovery",
+    "cost_type": "teilweise kostenlos",
+    "data_basis": "PubMed/OpenAlex",
+    "data_basis_url": "",
+    "libkey": false,
+    "url": "https://www.rdiscovery.com/",
+    "category": "Literatur-Discovery / Recommender",
+    "short_description": "App zur Literaturentdeckung und zum Verfolgen neuer Forschungsthemen.",
+    "notes": "",
+    "last_checked": "2026-05-24"
+  }
