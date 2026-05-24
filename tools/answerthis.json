@@ -1,0 +1,13 @@
+{
+    "id": "answerthis",
+    "name": "AnswerThis",
+    "cost_type": "teilweise kostenlos",
+    "data_basis": "k.A.",
+    "data_basis_url": "",
+    "libkey": true,
+    "url": "https://answerthis.io/",
+    "category": "KI-Suchmaschine / KI-Rechercheassistent",
+    "short_description": "KI-gestützte Plattform zur Beantwortung von Forschungsfragen.",
+    "notes": "",
+    "last_checked": "2026-05-24"
+  }
