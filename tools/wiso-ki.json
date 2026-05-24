@@ -1,0 +1,12 @@
+{
+    "name": "wiso KI",
+    "cost_type": "Campuslizenz",
+    "data_basis": "wiso",
+    "data_basis_url": "https://www.wiso-net.de/",
+    "libkey": false,
+    "url": "https://www.wiso-net.de/",
+    "category": "KI-Rechercheassistent",
+    "short_description": "KI-Funktion innerhalb von wiso für thematische und wissenschaftliche Recherche.",
+    "notes": "",
+    "last_checked": "2026-05-24"
+  }
