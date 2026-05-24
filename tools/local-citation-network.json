@@ -1,4 +1,5 @@
 {
+    "id": "local-citation-network",
     "name": "Local Citation Network",
     "cost_type": "kostenlos",
     "data_basis": "OpenAlex",
