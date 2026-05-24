@@ -1,0 +1,12 @@
+{
+    "name": "statista Research AI",
+    "cost_type": "Campuslizenz",
+    "data_basis": "statista",
+    "data_basis_url": "https://www.statista.com/",
+    "libkey": false,
+    "url": "https://www.statista.com/",
+    "category": "KI-Rechercheassistent",
+    "short_description": "KI-Funktion innerhalb von Statista für Recherche und Analyse.",
+    "notes": "",
+    "last_checked": "2026-05-24"
+  }
