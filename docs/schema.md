@@ -34,7 +34,7 @@ Welche Datenbasis das Tool verwendet, z. B.:
 - eigene Indexdaten
 - gemischt
 
-### data_basis
+### data_basis_url
 - URL zur Datenbasis
 
 ### libkey
