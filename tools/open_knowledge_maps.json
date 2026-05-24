@@ -1,0 +1,12 @@
+{
+    "name": "Open Knowledge Maps",
+    "cost_type": "kostenlos",
+    "data_basis": "PubMed/BASE",
+    "data_basis_url": "",
+    "libkey": false,
+    "url": "https://openknowledgemaps.org/",
+    "category": "Literatur-Discovery / Visualisierung",
+    "short_description": "Visualisiert Forschungsthemen und verwandte Literatur in Knowledge Maps.",
+    "notes": "",
+    "last_checked": "2026-05-24"
+  }
