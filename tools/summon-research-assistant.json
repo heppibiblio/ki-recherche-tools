@@ -1,0 +1,12 @@
+{
+    "name": "Summon Research Assistant",
+    "cost_type": "Campuslizenz",
+    "data_basis": "ExLibris CDI",
+    "data_basis_url": "",
+    "libkey": true,
+    "url": "https://fhb.summon.serialssolutions.com/",
+    "category": "KI-Rechercheassistent",
+    "short_description": "Rechercheassistenz innerhalb von Summon auf Basis der CDI.",
+    "notes": "",
+    "last_checked": "2026-05-24"
+  }
