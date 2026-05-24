@@ -1,6 +1,7 @@
 # Metadatenschema für KI-Recherche-Tools
 
 ## Pflichtfelder
+- id
 - name
 - cost_type
 - data_basis
