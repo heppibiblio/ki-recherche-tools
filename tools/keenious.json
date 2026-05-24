@@ -2,6 +2,7 @@
     "name": "keenious",
     "cost_type": "teilweise kostenlos",
     "data_basis": "OpenAlex",
+    "data_basis_url": "https://openalex.org/",
     "libkey": true,
     "url": "https://keenious.com/",
     "category": "KI-Rechercheassistent",
