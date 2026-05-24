@@ -1,4 +1,5 @@
 {
+    "id": "scispace",
     "name": "SciSpace",
     "cost_type": "teilweise kostenlos",
     "data_basis": "PubMed/OpenAlex",
