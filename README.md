@@ -1,11 +1,11 @@
 # ki-recherche-tools
 Kleine kollaborative Übersicht zu KI-gestützten Recherche-Tools für wissenschaftliche Bibliotheken.
 ## Inhalte
-- strukturierte Überischt-Daten pro Bibliothek in JSON
-- strukturierte Detail-Daten in JSON
+- strukturierte Daten der Tools in JSON
+- strukturierte Daten teilnehmende Bibliotheken in JSON
 - kollaborative Pflege über GitHub
 
-## Aktueller Stand
+## Aktueller Stand Tools
 - AbsClust
 - Connected Papers
 - Consensus
@@ -32,6 +32,9 @@ Kleine kollaborative Übersicht zu KI-gestützten Recherche-Tools für wissensch
 - Summon Research Assistant
 - undermind
 - wiso KI
+
+## Aktueller teilnehmende Bibliotheken
+- HAW Burgenland
 
 ## Struktur
 - `docs/schema.md` → erklärt die Felder
