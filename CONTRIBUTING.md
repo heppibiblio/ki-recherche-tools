@@ -43,17 +43,12 @@ Wenn der Vorschlag passt, wird er in das Repository aufgenommen.
 - Bibliotheksspezifische Auswahlen werden in `collections/` abgelegt.
 - Bitte das Metadatenschema in `docs/schema.md` beachten.
 
-## Fragen und Kontakt
+## Kontakt
 
-Bei Fragen oder Interesse an einer Mitarbeit bitte wenden an:
+Bei Interesse an einer Mitarbeit oder bei Fragen bitte wenden an:
 
-**[Name / Rolle / E-Mail / GitHub-Profil]**
-
-Beispiel:
-
-**Max Mustermann**  
-Koordination KI-Recherche-Tools  
-E-Mail: max.mustermann@example.org
+**Andreas Hepperger**  
+**Bibliothek HAW Burgenland**  
 
 ## Vielen Dank!
 
