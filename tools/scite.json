@@ -1,0 +1,12 @@
+{
+    "name": "Scite",
+    "cost_type": "kostenpflichtig",
+    "data_basis": "k.A.",
+    "data_basis_url": "",
+    "libkey": true,
+    "url": "https://scite.ai/",
+    "category": "Zitationsanalyse / Rechercheassistenz",
+    "short_description": "Analysiert Zitationen und zeigt an, wie Publikationen in der Literatur verwendet werden.",
+    "notes": "",
+    "last_checked": "2026-05-24"
+  }
