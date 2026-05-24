@@ -1,9 +1,13 @@
 {
   "library": "HAW Burgenland",
   "tools": [
+    "absclust",
     "connected-papers",
     "consensus",
     "elicit",
-    "scispace"
+    "evidence-hunt",
+    "google-scholar",
+    "inciteful",
+    "keenious"
   ]
 }
