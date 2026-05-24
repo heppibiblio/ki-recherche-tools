@@ -2,10 +2,11 @@
   "name": "Consensus",
   "cost_type": "teilweise kostenlos",
   "data_basis": "Semantic Scholar",
+  "data_basis_url": "https://www.semanticscholar.org/",
   "libkey": true,
   "url": "https://consensus.app/",
   "category": "KI-Suchmaschine / Rechercheassistenz",
   "short_description": "KI-gestützte Rechercheoberfläche mit Fokus auf wissenschaftliche Evidenz und Antworten mit Quellenbezug.",
   "notes": "Quellenangaben und Aussagekraft stets prüfen.",
-  "last_checked": "2026-05-23"
+  "last_checked": "2026-05-24"
 }
