@@ -1,4 +1,5 @@
 {
+    "id": "summon-research-assistant",
     "name": "Summon Research Assistant",
     "cost_type": "Campuslizenz",
     "data_basis": "ExLibris CDI",
