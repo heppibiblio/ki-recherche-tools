@@ -1,0 +1,12 @@
+{
+    "name": "Lateral",
+    "cost_type": "kostenpflichtig",
+    "data_basis": "k.A.",
+    "data_basis_url": "",
+    "libkey": false,
+    "url": "https://lateral.io/",
+    "category": "Literatur-Discovery / Visualisierung",
+    "short_description": "Werkzeug zur Unterstützung von Literaturrecherche und thematischer Analyse.",
+    "notes": "",
+    "last_checked": "2026-05-24"
+  }
