@@ -2,6 +2,7 @@
     "name": "EvidenceHunt",
     "cost_type": "teilweise kostenlos",
     "data_basis": "PubMed",
+    "data_basis_url": "https://pubmed.ncbi.nlm.nih.gov/",
     "libkey": false,
     "url": "https://evidencehunt.com/",
     "category": "KI-Rechercheassistent",
