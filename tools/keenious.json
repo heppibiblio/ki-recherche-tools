@@ -1,4 +1,5 @@
 {
+    "id": "keenious",
     "name": "keenious",
     "cost_type": "teilweise kostenlos",
     "data_basis": "OpenAlex",
