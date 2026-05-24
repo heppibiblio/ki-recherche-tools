@@ -1,0 +1,12 @@
+{
+    "name": "scinapse",
+    "cost_type": "teilweise kostenlos",
+    "data_basis": "k.A.",
+    "data_basis_url": "",
+    "libkey": false,
+    "url": "https://scinapse.io/",
+    "category": "Literatur-Discovery / Suchmaschine",
+    "short_description": "Wissenschaftliche Suchmaschine zur Literaturrecherche.",
+    "notes": "",
+    "last_checked": "2026-05-24"
+  }
