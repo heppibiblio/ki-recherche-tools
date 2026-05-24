@@ -1,4 +1,5 @@
 {
+    "id": "open-knowledge-maps",
     "name": "Open Knowledge Maps",
     "cost_type": "kostenlos",
     "data_basis": "PubMed/BASE",
