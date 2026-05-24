@@ -1,0 +1,12 @@
+{
+    "name": "Semantic Scholar",
+    "cost_type": "kostenlos",
+    "data_basis": "Semantic Scholar",
+    "data_basis_url": "https://www.semanticscholar.org/",
+    "libkey": false,
+    "url": "https://www.semanticscholar.org/",
+    "category": "Literatur-Discovery / Suchmaschine",
+    "short_description": "Wissenschaftliche Suchmaschine mit semantischer Literaturrecherche.",
+    "notes": "",
+    "last_checked": "2026-05-24"
+  }
