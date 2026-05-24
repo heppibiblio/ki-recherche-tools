@@ -1,4 +1,5 @@
 {
+    "id": "evidence-hunt",
     "name": "EvidenceHunt",
     "cost_type": "teilweise kostenlos",
     "data_basis": "PubMed",
