@@ -2,7 +2,7 @@
     "name": "Inciteful",
     "cost_type": "kostenlos",
     "data_basis": "OpenAlex/Semantic Scholar",
-    "data_basis": "",
+    "data_basis_url": "",
     "libkey": false,
     "url": "https://inciteful.xyz/",
     "category": "Literatur-Discovery / Visualisierung",
