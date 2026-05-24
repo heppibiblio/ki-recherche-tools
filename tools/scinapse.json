@@ -2,7 +2,7 @@
     "id": "scinapse",
     "name": "scinapse",
     "cost_type": "teilweise kostenlos",
-    "data_basis": "k.A.",
+    "data_basis": "PubMed/Semantic Scholar",
     "data_basis_url": "",
     "libkey": false,
     "url": "https://scinapse.io/",
