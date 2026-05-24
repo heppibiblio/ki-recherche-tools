@@ -34,6 +34,9 @@ Welche Datenbasis das Tool verwendet, z. B.:
 - eigene Indexdaten
 - gemischt
 
+### data_basis
+- URL zur Datenbasis
+
 ### libkey
 Ob LibKey-Anbindung vorhanden ist:
 - `true`
