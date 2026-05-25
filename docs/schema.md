@@ -38,7 +38,10 @@ Welche Datenbasis das Tool verwendet, z. B.:
 - URL zur Datenbasis
 
 ### category
-- KI-Suchmaschine (semantische Suche)
+- KI-Suche (Literatur finden)
+- KI-Analyse & Extraktion (Verknüpfungen entdecken)
+- KI-Visualisierung (Literatur vergleichen)
+- KI-Zusammenfassung (Mit PDFs chatten)
 
 ### libkey
 Ob LibKey-Anbindung vorhanden ist:
