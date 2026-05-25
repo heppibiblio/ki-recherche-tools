@@ -40,8 +40,8 @@ Welche Datenbasis das Tool verwendet, z. B.:
 ### category
 Welcher Kategorie kann das Tool zugeordnet werden
 - KI-Suche (Literatur finden)
-- KI-Analyse & Extraktion (Verknüpfungen entdecken)
-- KI-Visualisierung (Literatur vergleichen)
+- KI-Analyse & Extraktion (Literatur vergleichen)
+- KI-Visualisierung (Verknüpfungen entdecken)
 - KI-Zusammenfassung (Mit PDFs chatten)
 
 ### libkey
