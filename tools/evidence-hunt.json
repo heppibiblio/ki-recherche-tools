@@ -6,7 +6,7 @@
     "data_basis_url": "https://pubmed.ncbi.nlm.nih.gov/",
     "libkey": false,
     "url": "https://evidencehunt.com/",
-    "category": "KI-Rechercheassistent",
+    "category": "KI-Suche (Literatur finden)",
     "short_description": "Tool zur evidenzbasierten Recherche in biomedizinischen Publikationen.",
     "notes": "",
     "last_checked": "2026-05-24"
