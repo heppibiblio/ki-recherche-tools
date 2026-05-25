@@ -6,7 +6,7 @@
     "data_basis_url": "https://core.ac.uk/services/dataset",
     "libkey": false,
     "url": "https://ask.orkg.org/",
-    "category": "KI-Suchmaschine / Rechercheassistenz",
+    "category": "KI-Suche (Literatur finden)",
     "short_description": "Frage-Antwort-Oberfläche auf Basis des Open Research Knowledge Graph.",
     "notes": "",
     "last_checked": "2026-05-24"
