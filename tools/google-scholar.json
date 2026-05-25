@@ -6,8 +6,8 @@
     "data_basis_url": "https://scholar.google.com/",
     "libkey": false,
     "url": "https://scholar.google.com/",
-    "category": "KI-Rechercheassistent",
-    "short_description": "Experimentelle/erweiterte Suchfunktion im Umfeld von Google Scholar.",
+    "category": "KI-Suchmaschine",
+    "short_description": "Geigent um erste relevante Paper zu einer Forschungsfrage zu finden.",
     "notes": "",
     "last_checked": "2026-05-24"
   }
