@@ -37,6 +37,9 @@ Welche Datenbasis das Tool verwendet, z. B.:
 ### data_basis_url
 - URL zur Datenbasis
 
+### category
+- KI-Suchmaschine (semantische Suche)
+
 ### libkey
 Ob LibKey-Anbindung vorhanden ist:
 - `true`
