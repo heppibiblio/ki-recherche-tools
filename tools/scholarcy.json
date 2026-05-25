@@ -1,0 +1,13 @@
+{
+    "id": "scholarcy",
+    "name": "scholarcy",
+    "cost_type": "teilweise kostenlos",
+    "data_basis": "Crossref",
+    "data_basis_url": "https://www.crossref.org/",
+    "libkey": false,
+    "url": "https://www.scholarcy.com",
+    "category": "KI-Analyse & Extraktion (Literatur vergleichen)",
+    "short_description": "Analysiert hochgeladene PDFs",
+    "notes": "",
+    "last_checked": "2026-05-25"
+  }
