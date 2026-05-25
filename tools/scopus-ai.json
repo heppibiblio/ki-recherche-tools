@@ -6,7 +6,7 @@
     "data_basis_url": "https://www.scopus.com/",
     "libkey": true,
     "url": "https://www.scopus.com/",
-    "category": "KI-Rechercheassistent",
+    "category": "KI-Suche (Literatur finden)",
     "short_description": "KI-Funktion innerhalb von Scopus zur Unterstützung wissenschaftlicher Recherche.",
     "notes": "",
     "last_checked": "2026-05-24"
