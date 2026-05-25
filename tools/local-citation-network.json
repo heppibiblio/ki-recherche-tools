@@ -6,7 +6,7 @@
     "data_basis_uel": "http://openalex.org/",
     "libkey": false,
     "url": "https://www.localcitationnetwork.com/",
-    "category": "KI-Visualisierung (Literatur vergleichen)",
+    "category": "KI-Visualisierung (Verknüpfungen entdecken)",
     "short_description": "Erzeugt lokale Zitationsnetzwerke auf Basis von Literaturdaten.",
     "notes": "",
     "last_checked": "2026-05-24"
