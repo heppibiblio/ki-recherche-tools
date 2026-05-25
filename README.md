@@ -19,7 +19,7 @@ Kleine kollaborative Übersicht zu KI-gestützten Recherche-Tools für wissensch
 - Google Scholar Labs
 - Inciteful
 - keenious
-- Lateral
+- Lateral (eingestellt 06/2025)
 - Litmaps
 - Local Citation Network
 - Open Knowledge Maps
