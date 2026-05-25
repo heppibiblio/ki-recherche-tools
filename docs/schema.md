@@ -38,6 +38,7 @@ Welche Datenbasis das Tool verwendet, z. B.:
 - URL zur Datenbasis
 
 ### category
+Welcher Kategorie kann das Tool zugeordnet werden
 - KI-Suche (Literatur finden)
 - KI-Analyse & Extraktion (Verknüpfungen entdecken)
 - KI-Visualisierung (Literatur vergleichen)
