@@ -1,0 +1,13 @@
+{
+    "id": "perplexity_academic",
+    "name": "Perplexity (Academic)",
+    "cost_type": "teilweise kostenlos",
+    "data_basis": "Semantic Scholar",
+    "data_basis_url": "https://www.semanticscholar.org/",
+    "libkey": false,
+    "url": "https://www.perplexity.ai/academic",
+    "category": "KI-Suche (Literatur finden)",
+    "short_description": "Der "Academic"-Filter grenzt die Suche auf wissenschaftliche Quellen ein.",
+    "notes": "",
+    "last_checked": "2026-05-26"
+  }
