@@ -13,6 +13,7 @@ Kleine kollaborative Übersicht zu KI-gestützten Recherche-Tools für wissensch
 - AbsClust
 - AnswerThis
 - BioSkepsis
+- ChatPDF
 - Connected Papers
 - Consensus
 - Elicit
