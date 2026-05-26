@@ -17,11 +17,6 @@
       "available": true
     },
     {
-      "id": "chatgpt",
-      "local_url": "",
-      "available": true
-    },
-    {
       "id": "connected-papers",
       "local_url": "https://fh-burgenland.libanswers.com/faq/288345",
       "available": true
