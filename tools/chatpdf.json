@@ -1,0 +1,13 @@
+{
+    "id": "chatpdf",
+    "name": "ChatPDF",
+    "cost_type": "teilweise kostenlos",
+    "data_basis": "hochgeladenes Dokument",
+    "data_basis_url": "",
+    "libkey": false,
+    "url": "https://www.chatpdf.com/de",
+    "category": "KI-Analyse & Extraktion (Texte auswerten)",
+    "short_description": "Tool zum Paper querlesen und um gezielte Fragen an den Text zu stellen.",
+    "notes": "",
+    "last_checked": "2026-05-26"
+  }
