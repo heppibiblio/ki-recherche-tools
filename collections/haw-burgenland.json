@@ -72,6 +72,11 @@
       "available": true
     },
     {
+      "id": "perplexity_academic",
+      "local_url": "",
+      "available": true
+    },
+    {
       "id": "r-discovery",
       "local_url": "",
       "available": true
