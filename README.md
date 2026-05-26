@@ -25,7 +25,7 @@ Kleine kollaborative Übersicht zu KI-gestützten Recherche-Tools für wissensch
 - Local Citation Network
 - Open Knowledge Maps
 - ORKG Ask
-- Perplexity
+- Perplexity (Academic)
 - R Discovery
 - ResearchRabbit
 - scienceOS
