@@ -1,0 +1,150 @@
+{
+  "library": "FH CAMPUS 02",
+  "tools": [
+    {
+      "id": "absclust",
+      "local_url": "",
+      "available": true
+    },
+    {
+      "id": "answerthis",
+      "local_url": "",
+      "available": true
+    },
+    {
+      "id": "bioskepsis",
+      "local_url": "",
+      "available": false
+    },
+    {
+      "id": "chatpdf",
+      "local_url": "",
+      "available": true
+    },
+    {
+      "id": "connected-papers",
+      "local_url": "",
+      "available": true
+    },
+    {
+      "id": "consensus",
+      "local_url": "",
+      "available": true
+    },
+    {
+      "id": "elicit",
+      "local_url": "",
+      "available": true
+    },
+    {
+      "id": "evidence-hunt",
+      "local_url": "",
+      "available": true
+    },
+    {
+      "id": "google-scholar",
+      "local_url": "",
+      "available": true
+    },
+    {
+      "id": "inciteful",
+      "local_url": "",
+      "available": true
+    },
+    {
+      "id": "keenious",
+      "local_url": "",
+      "available": true
+    },
+    {
+      "id": "litmaps",
+      "local_url": "",
+      "available": true
+    },
+    {
+      "id": "local-citation-network",
+      "local_url": "",
+      "available": true
+    },
+    {
+      "id": "open-knowledge-maps",
+      "local_url": "",
+      "available": true
+    },
+    {
+      "id": "orkg-ask",
+      "local_url": "",
+      "available": true
+    },
+    {
+      "id": "perplexity_academic",
+      "local_url": "",
+      "available": true
+    },
+    {
+      "id": "r-discovery",
+      "local_url": "",
+      "available": true
+    },
+    {
+      "id": "research-rabbit",
+      "local_url": "",
+      "available": true
+    },
+    {
+      "id": "scholarcy",
+      "local_url": "",
+      "available": true
+    },
+    {
+      "id": "science-os",
+      "local_url": "",
+      "available": true
+    },
+    {
+      "id": "scinapse",
+      "local_url": "",
+      "available": true
+    },
+    {
+      "id": "scispace",
+      "local_url": "",
+      "available": true
+    },
+    {
+      "id": "scite",
+      "local_url": "",
+      "available": true
+    },
+    {
+      "id": "scopus-ai",
+      "local_url": "",
+      "available": false
+    },
+    {
+      "id": "semantic-scholar",
+      "local_url": "",
+      "available": true
+    },
+    {
+      "id": "statista-research-ai",
+      "local_url": "",
+      "available": true
+    },
+    {
+      "id": "summon-research-assistant",
+      "local_url": "",
+      "available": false
+    },
+    {
+      "id": "undermind",
+      "local_url": "",
+      "available": true
+    },
+    {
+      "id": "wiso-ki",
+      "local_url": "",
+      "available": false
+    }
+  ]
+}
