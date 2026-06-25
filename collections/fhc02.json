@@ -140,11 +140,6 @@
       "id": "undermind",
       "local_url": "",
       "available": true
-    },
-    {
-      "id": "wiso-ki",
-      "local_url": "",
-      "available": false
-    }
+     }
   ]
 }
