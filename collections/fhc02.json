@@ -12,11 +12,6 @@
       "available": true
     },
     {
-      "id": "bioskepsis",
-      "local_url": "",
-      "available": false
-    },
-    {
       "id": "chatpdf",
       "local_url": "",
       "available": true
@@ -117,11 +112,6 @@
       "available": true
     },
     {
-      "id": "scopus-ai",
-      "local_url": "",
-      "available": false
-    },
-    {
       "id": "semantic-scholar",
       "local_url": "",
       "available": true
@@ -130,11 +120,6 @@
       "id": "statista-research-ai",
       "local_url": "",
       "available": true
-    },
-    {
-      "id": "summon-research-assistant",
-      "local_url": "",
-      "available": false
     },
     {
       "id": "undermind",
