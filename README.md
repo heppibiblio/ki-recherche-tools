@@ -43,6 +43,7 @@ Kleine kollaborative Übersicht zu KI-gestützten Recherche-Tools für wissensch
 ## Aktuell teilnehmende Bibliotheken
 
 - HAW Burgenland
+- FH CAMPUS 02
 
 ## Struktur
 
