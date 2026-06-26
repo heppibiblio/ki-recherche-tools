@@ -32,6 +32,11 @@
       "available": true
     },
     {
+      "id": "ebc",
+      "local_url": "http://ebookcentral.proquest.com/lib/fh-burgenland/",
+      "available": true
+    },
+    {
       "id": "elicit",
       "local_url": "https://fh-burgenland.libanswers.com/faq/288346",
       "available": true
