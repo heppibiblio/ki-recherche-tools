@@ -1,0 +1,13 @@
+{
+    "id": "ebc",
+    "name": "Ebook Central Research Assistant",
+    "cost_type": "Campuslizenz",
+    "data_basis": "Ebook Central",
+    "data_basis_url": "",
+    "libkey": false,
+    "url": "",
+    "category": "",
+    "short_description": "Keine KI-unterstüzte Suche, sondern der Assistent unterstützt laterales Suchen anhand der im jeweiligen Kapitel entwickelten Konzepte und hilft dabei, verwandte Bücher zu finden.",
+    "notes": "",
+    "last_checked": "2026-06-26"
+  }
