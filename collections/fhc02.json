@@ -27,6 +27,11 @@
       "available": true
     },
     {
+      "id": "ebc",
+      "local_url": "https://login.elibrary.campus02.at/login?url=https://ebookcentral.proquest.com/lib/wirtschaft",
+      "available": true
+    },
+    {
       "id": "elicit",
       "local_url": "",
       "available": true
