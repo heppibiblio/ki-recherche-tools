@@ -5,9 +5,9 @@
     "data_basis": "ExLibris CDI",
     "data_basis_url": "",
     "libkey": true,
-    "url": "https://fhb.summon.serialssolutions.com/",
+    "url": "",
     "category": "KI-Suche (Literatur finden)",
     "short_description": "Geigent um erste relevante Paper zu einer Forschungsfrage zu finden",
     "notes": "",
-    "last_checked": "2026-05-24"
+    "last_checked": "2026-06-27"
   }
