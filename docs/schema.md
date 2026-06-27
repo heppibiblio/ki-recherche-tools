@@ -26,6 +26,7 @@ Kostentyp, z. B.:
 - teilweise kostenlos
 - kostenpflichtig
 - Freemium
+- Campuslizenz
 
 ### data_basis
 Welche Datenbasis das Tool verwendet, z. B.:
@@ -39,8 +40,12 @@ Welche Datenbasis das Tool verwendet, z. B.:
 
 ### category
 Welcher Kategorie kann das Tool zugeordnet werden
-- KI-Suche (Literatur finden)
 - KI-Analyse & Extraktion (Literatur vergleichen)
+- KI-Analyse & Extraktion (Texte auswerten)
+- KI-Analyse & Extraktion (Zitationskontext prüfen)
+- KI-Suche (Deep Search)
+- KI-Suche (Fakten & Daten finden)
+- KI-Suche (Literatur finden)
 - KI-Visualisierung (Verknüpfungen entdecken)
 - KI-Zusammenfassung (Mit PDFs chatten)
 
