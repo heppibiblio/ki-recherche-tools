@@ -22,3 +22,4 @@ Anzeige des Tools in der eigenen Collection:
 Wenn eine andere URL als im Tool hinterlegt angezeigt werden soll. Wenn leer, dann wird die URL vom Tool angezeigt. 
 
 ### url_inst
+Wenn in Tools url="", also keine URL hinterlegt ist, dann wird diese übernommen.
