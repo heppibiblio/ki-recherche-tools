@@ -48,7 +48,8 @@ Kleine kollaborative Übersicht zu KI-gestützten Recherche-Tools für wissensch
 
 ## Struktur
 
-- `docs/schema.md` – Beschreibung der Felder
+- `docs/schema.md` – Beschreibung der Tools Felder
+- `docs/schema_collections.md` – Beschreibung der Collections Felder
 - `tools/*.json` – ein Tool pro Datei
 - `collections/*.json` – bibliotheksspezifische Tool-Auswahlen
 
