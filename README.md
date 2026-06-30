@@ -16,7 +16,7 @@ Kleine kollaborative Übersicht zu KI-gestützten Recherche-Tools für wissensch
 - ChatPDF
 - Connected Papers
 - Consensus
-- Ebook Central Research Assistant (in Bearbeitung)
+- Ebook Central Research Assistant
 - Elicit
 - EvidenceHunt
 - Google Scholar Labs
