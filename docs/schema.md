@@ -6,7 +6,7 @@
 - cost_type
 - data_basis
 - libkey
-- url
+- url (bzw. url_inst in collections)
 - last_checked
 
 ## Optionale Felder
