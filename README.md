@@ -28,6 +28,7 @@ Kleine kollaborative Übersicht zu KI-gestützten Recherche-Tools für wissensch
 - Open Knowledge Maps
 - ORKG Ask
 - Perplexity (Academic)
+- ProQuest Research Assistant (07/2026)
 - R Discovery
 - ResearchRabbit
 - scienceOS
