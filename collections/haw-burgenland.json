@@ -88,6 +88,12 @@
       "available": true
     },
     {
+      "id": "proquest-research-assistant",
+      "local_url": "",
+      "url_inst": "https://www.proquest.com/shibboleth?accountid=27129",
+      "available": true
+    },
+    {
       "id": "r-discovery",
       "local_url": "",
       "available": true
