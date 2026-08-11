@@ -2,12 +2,12 @@
   "id": "consensus",
   "name": "Consensus",
   "cost_type": "teilweise kostenlos",
-  "data_basis": "Semantic Scholar",
-  "data_basis_url": "https://www.semanticscholar.org/",
+  "data_basis": "Semantic Scholar/De Gruyter Brill (Volltext)",
+  "data_basis_url": " ",
   "libkey": true,
   "url": "https://consensus.app/",
   "category": "KI-Suche (Literatur finden)",
   "short_description": "Geeigent um erste relevante Paper zu einer Forschungsfrage zu finden.",
-  "notes": "De Gruyter Brill im Volltext",
+  "notes": " ",
   "last_checked": "2026-08-11"
 }
