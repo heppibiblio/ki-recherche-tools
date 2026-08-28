@@ -17,6 +17,7 @@ Kleine kollaborative Übersicht zu KI-gestützten Recherche-Tools für wissensch
 - Connected Papers
 - Consensus
 - Ebook Central Research Assistant
+- EBSCO BSU AI (08/1026)
 - Elicit
 - EvidenceHunt
 - Google Scholar Labs
