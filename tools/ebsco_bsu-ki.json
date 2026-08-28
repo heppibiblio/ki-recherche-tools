@@ -1,0 +1,13 @@
+{
+    "id": "ebsco_bsu-ki",
+    "name": "EBSCO BSU KI",
+    "cost_type": "Campuslizenz",
+    "data_basis": "ebsco",
+    "data_basis_url": "",
+    "libkey": true,
+    "url": "",
+    "category": "KI-Suche (Literatur finden)",
+    "short_description": "KI-Funktion innerhalb von EBSCO für thematische und wissenschaftliche Recherche.",
+    "notes": "",
+    "last_checked": "2026-08-28"
+  }
